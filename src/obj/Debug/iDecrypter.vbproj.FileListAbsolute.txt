@@ -1,0 +1,10 @@
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\bin\Debug\iDecrypter.exe
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\bin\Debug\iDecrypter.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\bin\Debug\iDecrypter.xml
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\iDecrypter.Main.resources
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\iDecrypter.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\iDecrypter.vbproj.GenerateResource.Cache
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\iDecrypter.exe
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\iDecrypter.xml
+C:\Users\Thim\Desktop\iPhone_dev\iDecrypter\src\obj\Debug\iDecrypter.pdb
